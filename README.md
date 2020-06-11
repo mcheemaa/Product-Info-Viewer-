@@ -1,6 +1,6 @@
 # Product Info Viewer
 
-*Product Info Viewer:*
+**Product Info Viewer:**
 
 apireader.py contains a main function and a class window. the class first takes in frame
 from tkinter which acts as a container for all other widgets. it then calls the grid and create
