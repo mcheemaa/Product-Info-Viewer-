@@ -22,7 +22,7 @@ one. the code runs as : python3 apireader.py
 
 **How To Run The Program:**
 
-![image](https://user-images.githubusercontent.com/54610255/84450034-0ec45b80-ac1d-11ea-9f66-5045111d7e12.png)
+![image](https://user-images.githubusercontent.com/54610255/84450196-71b5f280-ac1d-11ea-9dfd-437140d4ab73.png)
 
 the program can be started by running it in python by typing python apireader.py. one
 thing to note is we need the title picture file to be present in the same folder as the program
@@ -34,7 +34,7 @@ enter and they will see the output. the image of that product will be saved with
 the same folder that contains the file. after one product and selection is done they just need to
 enter the new barcode and hit submit. the picture will be updated in the same file and folder.
 
-![image](https://user-images.githubusercontent.com/54610255/84450034-0ec45b80-ac1d-11ea-9f66-5045111d7e12.png)
+![image](https://user-images.githubusercontent.com/54610255/84450220-81cdd200-ac1d-11ea-8568-8ba3fbeb80fa.png)
 
 
 **Problems Encountered & Future Improvements Or Modification:**
@@ -86,6 +86,6 @@ quantity in the shop and displays a warning message if the quantity in the shops
 6. If n , bill will be shown and enter the amount you paid.
 7. It shows the change you will be returned.
 
-![image](https://user-images.githubusercontent.com/54610255/84449996-f18f8d00-ac1c-11ea-9707-46c7dd48c0c5.png)
+![image](https://user-images.githubusercontent.com/54610255/84450234-8eeac100-ac1d-11ea-9fd9-75553cb19425.png)
 
 
